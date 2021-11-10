@@ -1,0 +1,16 @@
+{
+  "name": "bratman-game",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --base ./",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.6.4"
+  },
+  "dependencies": {
+    "pixi.js": "^6.2.0",
+    "simplex-noise": "^3.0.0"
+  }
+}
